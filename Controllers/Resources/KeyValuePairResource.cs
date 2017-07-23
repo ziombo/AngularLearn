@@ -1,6 +1,6 @@
 namespace Vega.Models
 {
-    public class FeatureResource
+    public class KeyValuePairResource
     {
         public int Id { get; set; }
 
